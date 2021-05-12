@@ -34,7 +34,19 @@ entre subsistemas de um software. DTOs são frequentemente usados em conjunção
 - Foram incluídas linhas com documentação a ser gerada pelo SWAGGER
 - Foram criadas exceções no MIIDLEWARE e o middeleware foi registrado no Startup
 
+## Slide explicativo de como funciona a solução
+<img src="https://github.com/rdeconti/Projeto-DIO-.Net-Catalogo-De-Jogos/blob/main/Screens/como%20funcionam%20requisi%C3%A7%C3%B5es%20web.jpg" />
+
 # Testes executados (utilizando IDE Visual Studio 2019)
 
-## Teste: ?????
-<img src="https://github.com/rdeconti/Projeto-DIO-.Net-API-MongoDB/blob/main/Tests-screens/MongoDB%20-%20Cria%C3%A7%C3%A3o%20do%20cluster.jpg" />
+## Tela inicial do SWAGGER
+<img src="https://github.com/rdeconti/Projeto-DIO-.Net-Catalogo-De-Jogos/blob/main/Screens/tela-inicial.jpg" />
+
+## Post com erro
+<img src="https://github.com/rdeconti/Projeto-DIO-.Net-Catalogo-De-Jogos/blob/main/Screens/tela-post-com-erro-preco.jpg" />
+
+## Post com sucesso
+<img src="https://github.com/rdeconti/Projeto-DIO-.Net-Catalogo-De-Jogos/blob/main/Screens/tela-post-com-sucesso.jpg" />
+
+## Lista com erros
+<img src="https://github.com/rdeconti/Projeto-DIO-.Net-Catalogo-De-Jogos/blob/main/Screens/tela-get-all-records.jpg" />
